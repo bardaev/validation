@@ -1,0 +1,11 @@
+code:
+  - field: number
+    validationClass: Passport
+    validationMethod: number
+  - field: code
+    validationClass: Passport
+    validationMethod: code
+lastName:
+  - field: name
+    validationClass: Passport
+    validationMethod: name
